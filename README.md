@@ -32,4 +32,4 @@ python perform_recognition.py
 
 for testing the model
 
-## Built with :heart: by [Gopi](www.github.com/GopikrishnanSasikumar)
+## Built with :heart: by [Gopi](https://github.com/GopikrishnanSasikumar)
